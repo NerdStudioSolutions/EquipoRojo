@@ -1,6 +1,10 @@
-# Título del Proyecto
+# SIMULACION DE UN SISTEMA HIDROPONICO CON ALMACENAMIENTO EN PARALELO E INTERNET DE LAS COSAS
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_El proyecto fue creado para la materia de almacenamiento en paralelo con la finalidad de almacenar en paralelo
+todos los registros generados por los nodemcu's_
+
+[![Alt text for your video](http://img.youtube.com/vi/uDi4SxkSLJw/0.jpg)](https://www.youtube.com/watch?v=uDi4SxkSLJw)
+
 
 ## Comenzando 🚀
 
